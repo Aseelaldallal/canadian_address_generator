@@ -1,0 +1,16 @@
+{
+  "name": "canada_address_generator",
+  "version": "1.0.0",
+  "description": "Uses google places api to generate random canadian addresses and their longitutde, latitude coordinates. Returns JSON file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Aseel Al Dallal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "node-googleplaces": "^0.1.2"
+  }
+}

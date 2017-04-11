@@ -1,0 +1,394 @@
+[
+  {
+    "name": "Hill Top Kennels",
+    "address": "25345 Township Rd 710",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.111926,-117.7528"
+  },
+  {
+    "name": "CIBC Branch & ATM",
+    "address": "22 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3949149,-116.8059149"
+  },
+  {
+    "name": "NAPA Auto Parts - NAPA Associate Fox Creek",
+    "address": "204a Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3910223,-116.7959332"
+  },
+  {
+    "name": "The Source",
+    "address": "20 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.394814,-116.805673"
+  },
+  {
+    "name": "Foxwood Inn & Suites",
+    "address": "210 Highway Avenue East",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3905676,-116.7936163"
+  },
+  {
+    "name": "East Smoky Gas Co-op Ltd.",
+    "address": "71340 Range Rd 262",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.16053960000001,-117.8990507"
+  },
+  {
+    "name": "Star Fabrication Ltd",
+    "address": "71319 Range Rd 260",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.1597328,-117.8455432"
+  },
+  {
+    "name": "CIBC Branch & ATM",
+    "address": "22 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3949149,-116.8059149"
+  },
+  {
+    "name": "NAPA Auto Parts - NAPA Associate Fox Creek",
+    "address": "204a Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3910223,-116.7959332"
+  },
+  {
+    "name": "The Source",
+    "address": "20 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.394814,-116.805673"
+  },
+  {
+    "name": "Foxwood Inn & Suites",
+    "address": "210 Highway Avenue East",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3905676,-116.7936163"
+  },
+  {
+    "name": "East Smoky Gas Co-op Ltd.",
+    "address": "71340 Range Rd 262",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.16053960000001,-117.8990507"
+  },
+  {
+    "name": "Subway",
+    "address": "202 Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39143499999999,-116.797073"
+  },
+  {
+    "name": "OK Tire",
+    "address": "101 1 Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39310400000001,-116.8005534"
+  },
+  {
+    "name": "Star Fabrication Ltd",
+    "address": "71319 Range Rd 260",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.1597328,-117.8455432"
+  },
+  {
+    "name": "Summer's Gold",
+    "address": "71309 Range Rd 260",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.15789499999999,-117.847315"
+  },
+  {
+    "name": "Hill Top Kennels",
+    "address": "25345 Township Rd 710",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.111926,-117.7528"
+  },
+  {
+    "name": "Summer's Gold",
+    "address": "71309 Range Rd 260",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.15789499999999,-117.847315"
+  },
+  {
+    "name": "Hill Top Kennels",
+    "address": "25345 Township Rd 710",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.111926,-117.7528"
+  },
+  {
+    "name": "Subway",
+    "address": "202 Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39143499999999,-116.797073"
+  },
+  {
+    "name": "CIBC Branch & ATM",
+    "address": "22 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3949149,-116.8059149"
+  },
+  {
+    "name": "CIBC Branch & ATM",
+    "address": "22 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3949149,-116.8059149"
+  },
+  {
+    "name": "NAPA Auto Parts - NAPA Associate Fox Creek",
+    "address": "204a Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3910223,-116.7959332"
+  },
+  {
+    "name": "Foxwood Inn & Suites",
+    "address": "210 Highway Avenue East",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3905676,-116.7936163"
+  },
+  {
+    "name": "East Smoky Gas Co-op Ltd.",
+    "address": "71340 Range Rd 262",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.16053960000001,-117.8990507"
+  },
+  {
+    "name": "Subway",
+    "address": "202 Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39143499999999,-116.797073"
+  },
+  {
+    "name": "Subway",
+    "address": "202 Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39143499999999,-116.797073"
+  },
+  {
+    "name": "OK Tire",
+    "address": "101 1 Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39310400000001,-116.8005534"
+  },
+  {
+    "name": "Hill Top Kennels",
+    "address": "25345 Township Rd 710",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.111926,-117.7528"
+  },
+  {
+    "name": "Star Fabrication Ltd",
+    "address": "71319 Range Rd 260",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.1597328,-117.8455432"
+  },
+  {
+    "name": "Summer's Gold",
+    "address": "71309 Range Rd 260",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.15789499999999,-117.847315"
+  },
+  {
+    "name": "Star Fabrication Ltd",
+    "address": "71319 Range Rd 260",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.1597328,-117.8455432"
+  },
+  {
+    "name": "Hill Top Kennels",
+    "address": "25345 Township Rd 710",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.111926,-117.7528"
+  },
+  {
+    "name": "Foxwood Inn & Suites",
+    "address": "210 Highway Avenue East",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3905676,-116.7936163"
+  },
+  {
+    "name": "Pizza Joint",
+    "address": "2 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3944112,-116.8047192"
+  },
+  {
+    "name": "Pizza Joint",
+    "address": "2 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3944112,-116.8047192"
+  },
+  {
+    "name": "Summer's Gold",
+    "address": "71309 Range Rd 260",
+    "city": "Crooked Creek",
+    "province": "AB",
+    "postalCode": "T0H 0Y0",
+    "coordinates": "55.15789499999999,-117.847315"
+  },
+  {
+    "name": "The Source",
+    "address": "20 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.394814,-116.805673"
+  },
+  {
+    "name": "The Source",
+    "address": "20 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.394814,-116.805673"
+  },
+  {
+    "name": "CIBC Branch & ATM",
+    "address": "22 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3949149,-116.8059149"
+  },
+  {
+    "name": "NAPA Auto Parts - NAPA Associate Fox Creek",
+    "address": "204a Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3910223,-116.7959332"
+  },
+  {
+    "name": "NAPA Auto Parts - NAPA Associate Fox Creek",
+    "address": "204a Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3910223,-116.7959332"
+  },
+  {
+    "name": "OK Tire",
+    "address": "101 1 Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39310400000001,-116.8005534"
+  },
+  {
+    "name": "Subway",
+    "address": "202 Highway Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39143499999999,-116.797073"
+  },
+  {
+    "name": "The Source",
+    "address": "20 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.394814,-116.805673"
+  },
+  {
+    "name": "Foxwood Inn & Suites",
+    "address": "210 Highway Avenue East",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3905676,-116.7936163"
+  },
+  {
+    "name": "OK Tire",
+    "address": "101 1 Ave",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.39310400000001,-116.8005534"
+  },
+  {
+    "name": "Pizza Joint",
+    "address": "2 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3944112,-116.8047192"
+  },
+  {
+    "name": "Pizza Joint",
+    "address": "2 Commercial Ct",
+    "city": "Fox Creek",
+    "province": "AB",
+    "postalCode": "T0H 1P0",
+    "coordinates": "54.3944112,-116.8047192"
+  }
+]

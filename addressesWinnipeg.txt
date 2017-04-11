@@ -1,0 +1,226 @@
+[
+  {
+    "name": "UWinnipeg Downtown Hostel",
+    "address": "370 Langside St",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3B 2T4",
+    "coordinates": "49.89006999999999,-97.15652"
+  },
+  {
+    "name": "Comfort Inn South",
+    "address": "3109 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3T 4R6",
+    "coordinates": "49.77908799999999,-97.157822"
+  },
+  {
+    "name": "Hilton Winnipeg Airport Suites",
+    "address": "1800 Wellington Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3H 1B2",
+    "coordinates": "49.9007264,-97.2087358"
+  },
+  {
+    "name": "Canad Inns Destination Centre Fort Garry",
+    "address": "1824 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3T 2G2",
+    "coordinates": "49.8241452,-97.151888"
+  },
+  {
+    "name": "Fairfield Inn & Suites by Marriott Winnipeg",
+    "address": "1301 Ellice Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3G 0G1",
+    "coordinates": "49.895446,-97.19218099999999"
+  },
+  {
+    "name": "Fairmont Winnipeg",
+    "address": "2 Lombard Pl",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3B 0Y3",
+    "coordinates": "49.89584050000001,-97.1369917"
+  },
+  {
+    "name": "Inn at The Forks",
+    "address": "75 Forks Market Rd",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3C 0A2",
+    "coordinates": "49.8877866,-97.1296811"
+  },
+  {
+    "name": "Comfort Inn South",
+    "address": "3109 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3T 4R6",
+    "coordinates": "49.77908799999999,-97.157822"
+  },
+  {
+    "name": "Holiday Inn Winnipeg-South",
+    "address": "1330 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3T 2B4",
+    "coordinates": "49.84073540000001,-97.1521526"
+  },
+  {
+    "name": "Humphry Inn & Suites, Downtown Winnipeg",
+    "address": "260 Main St",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3C 1A9",
+    "coordinates": "49.8921873,-97.1369392"
+  },
+  {
+    "name": "Best Western Plus Pembina Inn & Suites",
+    "address": "1714 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3T 2G2",
+    "coordinates": "49.82796949999999,-97.1511633"
+  },
+  {
+    "name": "Quality Inn & Suites",
+    "address": "635 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3M 2L4",
+    "coordinates": "49.8631401,-97.1489371"
+  },
+  {
+    "name": "Delta Hotels by Marriott Winnipeg",
+    "address": "350 St Mary Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3C 3J2",
+    "coordinates": "49.8898024,-97.14347339999999"
+  },
+  {
+    "name": "Humphry Inn & Suites, Downtown Winnipeg",
+    "address": "260 Main St",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3C 1A9",
+    "coordinates": "49.8921873,-97.1369392"
+  },
+  {
+    "name": "Viscount Gort Hotel",
+    "address": "1670 Portage Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3J 0C9",
+    "coordinates": "49.8792364,-97.2037118"
+  },
+  {
+    "name": "Best Western Plus Downtown Winnipeg",
+    "address": "330 York Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3C 0N9",
+    "coordinates": "49.88865759999999,-97.1419114"
+  },
+  {
+    "name": "Canad Inns Destination Centre Fort Garry",
+    "address": "1824 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3T 2G2",
+    "coordinates": "49.8241452,-97.151888"
+  },
+  {
+    "name": "UWinnipeg Downtown Hostel",
+    "address": "370 Langside St",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3B 2T4",
+    "coordinates": "49.89006999999999,-97.15652"
+  },
+  {
+    "name": "Holiday Inn Winnipeg-South",
+    "address": "1330 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3T 2B4",
+    "coordinates": "49.84073540000001,-97.1521526"
+  },
+  {
+    "name": "Hilton Winnipeg Airport Suites",
+    "address": "1800 Wellington Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3H 1B2",
+    "coordinates": "49.9007264,-97.2087358"
+  },
+  {
+    "name": "Inn at The Forks",
+    "address": "75 Forks Market Rd",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3C 0A2",
+    "coordinates": "49.8877866,-97.1296811"
+  },
+  {
+    "name": "Best Western Plus Pembina Inn & Suites",
+    "address": "1714 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3T 2G2",
+    "coordinates": "49.82796949999999,-97.1511633"
+  },
+  {
+    "name": "Best Western Plus Downtown Winnipeg",
+    "address": "330 York Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3C 0N9",
+    "coordinates": "49.88865759999999,-97.1419114"
+  },
+  {
+    "name": "Viscount Gort Hotel",
+    "address": "1670 Portage Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3J 0C9",
+    "coordinates": "49.8792364,-97.2037118"
+  },
+  {
+    "name": "Fairmont Winnipeg",
+    "address": "2 Lombard Pl",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3B 0Y3",
+    "coordinates": "49.89584050000001,-97.1369917"
+  },
+  {
+    "name": "Delta Hotels by Marriott Winnipeg",
+    "address": "350 St Mary Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3C 3J2",
+    "coordinates": "49.8898024,-97.14347339999999"
+  },
+  {
+    "name": "Fairfield Inn & Suites by Marriott Winnipeg",
+    "address": "1301 Ellice Ave",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3G 0G1",
+    "coordinates": "49.895446,-97.19218099999999"
+  },
+  {
+    "name": "Quality Inn & Suites",
+    "address": "635 Pembina Hwy",
+    "city": "Winnipeg",
+    "province": "MB",
+    "postalCode": "R3M 2L4",
+    "coordinates": "49.8631401,-97.1489371"
+  }
+]

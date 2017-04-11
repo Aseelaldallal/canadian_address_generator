@@ -1,0 +1,1090 @@
+136[
+  {
+    "name": "Montmartre School",
+    "address": "305 1st Ave E",
+    "city": "Montmartre",
+    "province": "SK",
+    "postalCode": "S0G 3M0",
+    "coordinates": "50.2171617,-103.449587"
+  },
+  {
+    "name": "Fillmore Agencies",
+    "address": "63 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8800049,-103.4346626"
+  },
+  {
+    "name": "Suncounty",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "BP Canada Energy Co",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "Fillmore Agencies",
+    "address": "63 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8800049,-103.4346626"
+  },
+  {
+    "name": "Suncounty",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "RBC Royal Bank",
+    "address": "29 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.880899,-103.4335463"
+  },
+  {
+    "name": "Fillmore Public Library Branch",
+    "address": "51 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8803935,-103.4344007"
+  },
+  {
+    "name": "Wheatland Accounting Services Ltd",
+    "address": "30 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8811306,-103.4339578"
+  },
+  {
+    "name": "Wheatland Accounting Services Ltd",
+    "address": "30 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8811306,-103.4339578"
+  },
+  {
+    "name": "RBC Royal Bank",
+    "address": "29 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.880899,-103.4335463"
+  },
+  {
+    "name": "D & S Agencies",
+    "address": "67 Stanley St",
+    "city": "Creelman",
+    "province": "SK",
+    "postalCode": "S0G 0X0",
+    "coordinates": "49.8200721,-103.3117892"
+  },
+  {
+    "name": "Canada Post",
+    "address": "28 Main St",
+    "city": "Creelman",
+    "province": "SK",
+    "postalCode": "S0G 0X0",
+    "coordinates": "49.8199026,-103.3093303"
+  },
+  {
+    "name": "Fillmore Public Library Branch",
+    "address": "51 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8803935,-103.4344007"
+  },
+  {
+    "name": "Suncounty",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "D & S Agencies",
+    "address": "67 Stanley St",
+    "city": "Creelman",
+    "province": "SK",
+    "postalCode": "S0G 0X0",
+    "coordinates": "49.8200721,-103.3117892"
+  },
+  {
+    "name": "Canada Post",
+    "address": "28 Main St",
+    "city": "Creelman",
+    "province": "SK",
+    "postalCode": "S0G 0X0",
+    "coordinates": "49.8199026,-103.3093303"
+  },
+  {
+    "name": "Mazenc Fuels Ltd.",
+    "address": "55 Railway Ave",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8826177,-103.4333014"
+  },
+  {
+    "name": "Canada Post",
+    "address": "57 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.88004970000001,-103.4345335"
+  },
+  {
+    "name": "Canada Post",
+    "address": "57 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.88004970000001,-103.4345335"
+  },
+  {
+    "name": "Fillmore Agencies",
+    "address": "63 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8800049,-103.4346626"
+  },
+  {
+    "name": "BP Canada Energy Co",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "Royal Canadian Legion Branch 133",
+    "address": "401 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6775964,-103.0288123"
+  },
+  {
+    "name": "Mazenc Fuels Ltd.",
+    "address": "55 Railway Ave",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8826177,-103.4333014"
+  },
+  {
+    "name": "Wheatland Accounting Services Ltd",
+    "address": "30 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8811306,-103.4339578"
+  },
+  {
+    "name": "Fillmore Public Library Branch",
+    "address": "51 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8803935,-103.4344007"
+  },
+  {
+    "name": "Mazenc Fuels Ltd.",
+    "address": "55 Railway Ave",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8826177,-103.4333014"
+  },
+  {
+    "name": "Canada Post",
+    "address": "57 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.88004970000001,-103.4345335"
+  },
+  {
+    "name": "Stoughton Credit Union",
+    "address": "331 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6794157,-103.0268846"
+  },
+  {
+    "name": "RBC Royal Bank",
+    "address": "29 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.880899,-103.4335463"
+  },
+  {
+    "name": "Canada Post",
+    "address": "320 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67987530000001,-103.0270077"
+  },
+  {
+    "name": "Trobert Law Firm",
+    "address": "232 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6805476,-103.0261582"
+  },
+  {
+    "name": "Co-op",
+    "address": "512 Railway Ave",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.679452,-103.028273"
+  },
+  {
+    "name": "Esso",
+    "address": "700 Government Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6688061,-103.0219955"
+  },
+  {
+    "name": "Suncounty",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "BP Canada Energy Co",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "Fillmore Agencies",
+    "address": "63 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8800049,-103.4346626"
+  },
+  {
+    "name": "Wheatland Accounting Services Ltd",
+    "address": "30 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8811306,-103.4339578"
+  },
+  {
+    "name": "Fillmore Public Library Branch",
+    "address": "51 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8803935,-103.4344007"
+  },
+  {
+    "name": "Canada Post",
+    "address": "57 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.88004970000001,-103.4345335"
+  },
+  {
+    "name": "RBC Royal Bank",
+    "address": "29 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.880899,-103.4335463"
+  },
+  {
+    "name": "Western Star Inn & Suites - Stoughton",
+    "address": "105 E Big Cottonwood Canyon Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67114309999999,-103.0238467"
+  },
+  {
+    "name": "Royal Canadian Legion Branch 133",
+    "address": "401 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6775964,-103.0288123"
+  },
+  {
+    "name": "Canada Post",
+    "address": "101 2nd Ave",
+    "city": "Vibank",
+    "province": "SK",
+    "postalCode": "S0G 4Y0",
+    "coordinates": "50.3341298,-103.9458113"
+  },
+  {
+    "name": "Canada Post",
+    "address": "101 2nd Ave",
+    "city": "Vibank",
+    "province": "SK",
+    "postalCode": "S0G 4Y0",
+    "coordinates": "50.3341298,-103.9458113"
+  },
+  {
+    "name": "Fillmore Agencies",
+    "address": "63 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8800049,-103.4346626"
+  },
+  {
+    "name": "Suncounty",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "BP Canada Energy Co",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "Stoughton Credit Union",
+    "address": "331 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6794157,-103.0268846"
+  },
+  {
+    "name": "Esso",
+    "address": "700 Government Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6688061,-103.0219955"
+  },
+  {
+    "name": "Co-op",
+    "address": "512 Railway Ave",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.679452,-103.028273"
+  },
+  {
+    "name": "Hoffart Services Inc",
+    "address": "538 Railway Ave",
+    "city": "Odessa",
+    "province": "SK",
+    "postalCode": "S0G 3S0",
+    "coordinates": "50.28314169999999,-103.7835455"
+  },
+  {
+    "name": "Hoffart Services Inc",
+    "address": "538 Railway Ave",
+    "city": "Odessa",
+    "province": "SK",
+    "postalCode": "S0G 3S0",
+    "coordinates": "50.28314169999999,-103.7835455"
+  },
+  {
+    "name": "Canada Post",
+    "address": "57 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.88004970000001,-103.4345335"
+  },
+  {
+    "name": "Wheatland Accounting Services Ltd",
+    "address": "30 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8811306,-103.4339578"
+  },
+  {
+    "name": "RBC Royal Bank",
+    "address": "29 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.880899,-103.4335463"
+  },
+  {
+    "name": "Mazenc Fuels Ltd.",
+    "address": "55 Railway Ave",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8826177,-103.4333014"
+  },
+  {
+    "name": "Fillmore Public Library Branch",
+    "address": "51 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8803935,-103.4344007"
+  },
+  {
+    "name": "Canada Post",
+    "address": "320 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67987530000001,-103.0270077"
+  },
+  {
+    "name": "Trobert Law Firm",
+    "address": "232 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6805476,-103.0261582"
+  },
+  {
+    "name": "Lampman Community Health Centre",
+    "address": "311 2 Ave E",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3784718,-102.7589625"
+  },
+  {
+    "name": "Western Star Inn & Suites - Stoughton",
+    "address": "105 E Big Cottonwood Canyon Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67114309999999,-103.0238467"
+  },
+  {
+    "name": "Spectra Credit Union",
+    "address": "202 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3809088,-102.7572471"
+  },
+  {
+    "name": "Lampman School",
+    "address": "910 Corrigan Rd",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3772738,-102.7522945"
+  },
+  {
+    "name": "Lampman Health Clinic",
+    "address": "215 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3804325,-102.7564355"
+  },
+  {
+    "name": "Lampman Recreation",
+    "address": "302 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3803859,-102.7561077"
+  },
+  {
+    "name": "Clean Harbors Industrial Services Canada Inc",
+    "address": "600 Forrest Ave",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3757472,-102.7581201"
+  },
+  {
+    "name": "Hoffart Services Inc",
+    "address": "538 Railway Ave",
+    "city": "Odessa",
+    "province": "SK",
+    "postalCode": "S0G 3S0",
+    "coordinates": "50.28314169999999,-103.7835455"
+  },
+  {
+    "name": "Montmartre School",
+    "address": "305 1st Ave E",
+    "city": "Montmartre",
+    "province": "SK",
+    "postalCode": "S0G 3M0",
+    "coordinates": "50.2171617,-103.449587"
+  },
+  {
+    "name": "Wheatland Accounting Services Ltd",
+    "address": "30 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8811306,-103.4339578"
+  },
+  {
+    "name": "Canada Post",
+    "address": "57 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.88004970000001,-103.4345335"
+  },
+  {
+    "name": "Royal Canadian Legion Branch 133",
+    "address": "401 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6775964,-103.0288123"
+  },
+  {
+    "name": "Extreeeme Limousine Inc",
+    "address": "117 Galloway St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3760205,-102.7575675"
+  },
+  {
+    "name": "Lampman Community Health Centre",
+    "address": "311 2 Ave E",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3784718,-102.7589625"
+  },
+  {
+    "name": "Lampman Recreation",
+    "address": "302 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3803859,-102.7561077"
+  },
+  {
+    "name": "Fillmore Agencies",
+    "address": "63 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8800049,-103.4346626"
+  },
+  {
+    "name": "BP Canada Energy Co",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "Suncounty",
+    "address": "100 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8781151,-103.4372611"
+  },
+  {
+    "name": "Hoffart Services Inc",
+    "address": "538 Railway Ave",
+    "city": "Odessa",
+    "province": "SK",
+    "postalCode": "S0G 3S0",
+    "coordinates": "50.28314169999999,-103.7835455"
+  },
+  {
+    "name": "Montmartre School",
+    "address": "305 1st Ave E",
+    "city": "Montmartre",
+    "province": "SK",
+    "postalCode": "S0G 3M0",
+    "coordinates": "50.2171617,-103.449587"
+  },
+  {
+    "name": "Stoughton Credit Union",
+    "address": "331 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6794157,-103.0268846"
+  },
+  {
+    "name": "Esso",
+    "address": "700 Government Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6688061,-103.0219955"
+  },
+  {
+    "name": "Co-op",
+    "address": "512 Railway Ave",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.679452,-103.028273"
+  },
+  {
+    "name": "Canada Post",
+    "address": "320 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67987530000001,-103.0270077"
+  },
+  {
+    "name": "Trobert Law Firm",
+    "address": "232 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6805476,-103.0261582"
+  },
+  {
+    "name": "Spectra Credit Union",
+    "address": "202 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3809088,-102.7572471"
+  },
+  {
+    "name": "Lampman School",
+    "address": "910 Corrigan Rd",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3772738,-102.7522945"
+  },
+  {
+    "name": "Lampman Health Clinic",
+    "address": "215 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3804325,-102.7564355"
+  },
+  {
+    "name": "Lampman Recreation",
+    "address": "302 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3803859,-102.7561077"
+  },
+  {
+    "name": "Clean Harbors Industrial Services Canada Inc",
+    "address": "600 Forrest Ave",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3757472,-102.7581201"
+  },
+  {
+    "name": "Spectra Credit Union",
+    "address": "202 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3809088,-102.7572471"
+  },
+  {
+    "name": "Source Energy Services",
+    "address": "301 Railway Ave",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3786604,-102.7633989"
+  },
+  {
+    "name": "Lampman Health Clinic",
+    "address": "215 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3804325,-102.7564355"
+  },
+  {
+    "name": "Spectra Credit Union",
+    "address": "202 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3809088,-102.7572471"
+  },
+  {
+    "name": "Lampman School",
+    "address": "910 Corrigan Rd",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3772738,-102.7522945"
+  },
+  {
+    "name": "Lampman Health Clinic",
+    "address": "215 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3804325,-102.7564355"
+  },
+  {
+    "name": "Esso",
+    "address": "515 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3774393,-102.7514315"
+  },
+  {
+    "name": "Clean Harbors Industrial Services Canada Inc",
+    "address": "600 Forrest Ave",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3757472,-102.7581201"
+  },
+  {
+    "name": "Spectra Credit Union",
+    "address": "202 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3809088,-102.7572471"
+  },
+  {
+    "name": "Lampman School",
+    "address": "910 Corrigan Rd",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3772738,-102.7522945"
+  },
+  {
+    "name": "Royal Canadian Legion Branch 169",
+    "address": "506 Railway Ave",
+    "city": "Bienfait",
+    "province": "SK",
+    "postalCode": "S0C 0M0",
+    "coordinates": "49.14437609999999,-102.8083981"
+  },
+  {
+    "name": "Canada Post",
+    "address": "334 Walsh St",
+    "city": "Bienfait",
+    "province": "SK",
+    "postalCode": "S0C 0M0",
+    "coordinates": "49.1429195,-102.8064644"
+  },
+  {
+    "name": "Lampman Health Clinic",
+    "address": "215 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3804325,-102.7564355"
+  },
+  {
+    "name": "Montmartre School",
+    "address": "305 1st Ave E",
+    "city": "Montmartre",
+    "province": "SK",
+    "postalCode": "S0G 3M0",
+    "coordinates": "50.2171617,-103.449587"
+  },
+  {
+    "name": "RBC Royal Bank",
+    "address": "29 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.880899,-103.4335463"
+  },
+  {
+    "name": "Mazenc Fuels Ltd.",
+    "address": "55 Railway Ave",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8826177,-103.4333014"
+  },
+  {
+    "name": "Fillmore Public Library Branch",
+    "address": "51 Main St",
+    "city": "Fillmore",
+    "province": "SK",
+    "postalCode": "S0G 1N0",
+    "coordinates": "49.8803935,-103.4344007"
+  },
+  {
+    "name": "D & S Agencies",
+    "address": "67 Stanley St",
+    "city": "Creelman",
+    "province": "SK",
+    "postalCode": "S0G 0X0",
+    "coordinates": "49.8200721,-103.3117892"
+  },
+  {
+    "name": "Royal Canadian Legion Branch 133",
+    "address": "401 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6775964,-103.0288123"
+  },
+  {
+    "name": "Stoughton Credit Union",
+    "address": "331 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6794157,-103.0268846"
+  },
+  {
+    "name": "Canada Post",
+    "address": "28 Main St",
+    "city": "Creelman",
+    "province": "SK",
+    "postalCode": "S0G 0X0",
+    "coordinates": "49.8199026,-103.3093303"
+  },
+  {
+    "name": "Lampman Recreation",
+    "address": "302 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3803859,-102.7561077"
+  },
+  {
+    "name": "Lampman Community Health Centre",
+    "address": "311 2 Ave E",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3784718,-102.7589625"
+  },
+  {
+    "name": "Lampman Community Health Centre",
+    "address": "311 2 Ave E",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3784718,-102.7589625"
+  },
+  {
+    "name": "Lampman Community Health Centre",
+    "address": "311 2 Ave E",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3784718,-102.7589625"
+  },
+  {
+    "name": "Western Star Inn & Suites - Stoughton",
+    "address": "105 E Big Cottonwood Canyon Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67114309999999,-103.0238467"
+  },
+  {
+    "name": "Co-op",
+    "address": "512 Railway Ave",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.679452,-103.028273"
+  },
+  {
+    "name": "southern truck polishing",
+    "address": "616 Government Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67699039999999,-103.0225287"
+  },
+  {
+    "name": "Esso",
+    "address": "700 Government Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6688061,-103.0219955"
+  },
+  {
+    "name": "Lampman School",
+    "address": "910 Corrigan Rd",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3772738,-102.7522945"
+  },
+  {
+    "name": "Best Western Plus Estevan Inn & Suites",
+    "address": "92 King St",
+    "city": "Estevan",
+    "province": "SK",
+    "postalCode": "S4A 2T5",
+    "coordinates": "49.146215,-102.96718"
+  },
+  {
+    "name": "Microtel Inn & Suites by Wyndham Estevan",
+    "address": "120 King St",
+    "city": "Estevan",
+    "province": "SK",
+    "postalCode": "S4A 2T5",
+    "coordinates": "49.1462162,-102.9709865"
+  },
+  {
+    "name": "NAPA Auto Parts - Cavalier Auto Body Ltd",
+    "address": "212 Railway Ave",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67795479999999,-103.0248765"
+  },
+  {
+    "name": "United Church Manse",
+    "address": "331 Russell St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6772592,-103.0207635"
+  },
+  {
+    "name": "Western Star Inn & Suites - Stoughton",
+    "address": "105 E Big Cottonwood Canyon Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67114309999999,-103.0238467"
+  },
+  {
+    "name": "Esso",
+    "address": "515 Main St",
+    "city": "Lampman",
+    "province": "SK",
+    "postalCode": "S0C 1N0",
+    "coordinates": "49.3774393,-102.7514315"
+  },
+  {
+    "name": "Western Star Inn & Suites - Stoughton",
+    "address": "105 E Big Cottonwood Canyon Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67114309999999,-103.0238467"
+  },
+  {
+    "name": "Subway",
+    "address": "600A Government Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6701369,-103.0233907"
+  },
+  {
+    "name": "Co-op",
+    "address": "512 Railway Ave",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.679452,-103.028273"
+  },
+  {
+    "name": "Canada Post",
+    "address": "320 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.67987530000001,-103.0270077"
+  },
+  {
+    "name": "Canada Post",
+    "address": "28 Main St",
+    "city": "Creelman",
+    "province": "SK",
+    "postalCode": "S0G 0X0",
+    "coordinates": "49.8199026,-103.3093303"
+  },
+  {
+    "name": "D & S Agencies",
+    "address": "67 Stanley St",
+    "city": "Creelman",
+    "province": "SK",
+    "postalCode": "S0G 0X0",
+    "coordinates": "49.8200721,-103.3117892"
+  },
+  {
+    "name": "Trobert Law Firm",
+    "address": "232 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6805476,-103.0261582"
+  },
+  {
+    "name": "Stoughton Credit Union",
+    "address": "331 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6794157,-103.0268846"
+  },
+  {
+    "name": "Esso",
+    "address": "700 Government Rd",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6688061,-103.0219955"
+  },
+  {
+    "name": "Royal Canadian Legion Branch 133",
+    "address": "401 Main St",
+    "city": "Stoughton",
+    "province": "SK",
+    "postalCode": "S0G 4T0",
+    "coordinates": "49.6775964,-103.0288123"
+  }
+]

@@ -1,0 +1,3442 @@
+[
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "SoHo Metropolitan Hotel",
+    "address": "318 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3T4",
+    "coordinates": "43.6447662,-79.39218989999999"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "SoHo Metropolitan Hotel",
+    "address": "318 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3T4",
+    "coordinates": "43.6447662,-79.39218989999999"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "SoHo Metropolitan Hotel",
+    "address": "318 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3T4",
+    "coordinates": "43.6447662,-79.39218989999999"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Trump International Hotel & Tower Toronto",
+    "address": "325 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 4G3",
+    "coordinates": "43.649832,-79.3801783"
+  },
+  {
+    "name": "Trump International Hotel & Tower Toronto",
+    "address": "325 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 4G3",
+    "coordinates": "43.649832,-79.3801783"
+  },
+  {
+    "name": "Cambridge Suites Hotel Toronto",
+    "address": "15 Richmond St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5C 1N2",
+    "coordinates": "43.6517069,-79.3778205"
+  },
+  {
+    "name": "The Strathcona Hotel",
+    "address": "60 York St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5J 1S8",
+    "coordinates": "43.64625849999999,-79.3831595"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "The Ritz-Carlton, Toronto",
+    "address": "181 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3G7",
+    "coordinates": "43.645395,-79.38715909999999"
+  },
+  {
+    "name": "The Ritz-Carlton, Toronto",
+    "address": "181 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3G7",
+    "coordinates": "43.645395,-79.38715909999999"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "The Strathcona Hotel",
+    "address": "60 York St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5J 1S8",
+    "coordinates": "43.64625849999999,-79.3831595"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "SoHo Metropolitan Hotel",
+    "address": "318 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3T4",
+    "coordinates": "43.6447662,-79.39218989999999"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "SoHo Metropolitan Hotel",
+    "address": "318 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3T4",
+    "coordinates": "43.6447662,-79.39218989999999"
+  },
+  {
+    "name": "Trump International Hotel & Tower Toronto",
+    "address": "325 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 4G3",
+    "coordinates": "43.649832,-79.3801783"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "The Ritz-Carlton, Toronto",
+    "address": "181 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3G7",
+    "coordinates": "43.645395,-79.38715909999999"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "The Ritz-Carlton, Toronto",
+    "address": "181 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3G7",
+    "coordinates": "43.645395,-79.38715909999999"
+  },
+  {
+    "name": "The Strathcona Hotel",
+    "address": "60 York St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5J 1S8",
+    "coordinates": "43.64625849999999,-79.3831595"
+  },
+  {
+    "name": "Cambridge Suites Hotel Toronto",
+    "address": "15 Richmond St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5C 1N2",
+    "coordinates": "43.6517069,-79.3778205"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Downtown Home Inn",
+    "address": "2 Monteith St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1K7",
+    "coordinates": "43.6670366,-79.3810644"
+  },
+  {
+    "name": "University of Toronto New College Residences",
+    "address": "40 Willcocks St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 1C6",
+    "coordinates": "43.6615178,-79.4003177"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Trump International Hotel & Tower Toronto",
+    "address": "325 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 4G3",
+    "coordinates": "43.649832,-79.3801783"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Downtown Home Inn",
+    "address": "2 Monteith St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1K7",
+    "coordinates": "43.6670366,-79.3810644"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "SoHo Metropolitan Hotel",
+    "address": "318 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3T4",
+    "coordinates": "43.6447662,-79.39218989999999"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "SoHo Metropolitan Hotel",
+    "address": "318 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3T4",
+    "coordinates": "43.6447662,-79.39218989999999"
+  },
+  {
+    "name": "Trump International Hotel & Tower Toronto",
+    "address": "325 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 4G3",
+    "coordinates": "43.649832,-79.3801783"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "The Ritz-Carlton, Toronto",
+    "address": "181 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3G7",
+    "coordinates": "43.645395,-79.38715909999999"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "University of Toronto New College Residences",
+    "address": "40 Willcocks St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 1C6",
+    "coordinates": "43.6615178,-79.4003177"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Downtown Home Inn",
+    "address": "2 Monteith St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1K7",
+    "coordinates": "43.6670366,-79.3810644"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "The Hazelton Hotel",
+    "address": "118 Yorkville Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 1C4",
+    "coordinates": "43.6709298,-79.3936054"
+  },
+  {
+    "name": "Madison Manor Boutique Hotel",
+    "address": "20 Madison Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2S1",
+    "coordinates": "43.6680405,-79.4035016"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "Madison Manor Boutique Hotel",
+    "address": "20 Madison Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2S1",
+    "coordinates": "43.6680405,-79.4035016"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Downtown Home Inn",
+    "address": "2 Monteith St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1K7",
+    "coordinates": "43.6670366,-79.3810644"
+  },
+  {
+    "name": "University of Toronto New College Residences",
+    "address": "40 Willcocks St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 1C6",
+    "coordinates": "43.6615178,-79.4003177"
+  },
+  {
+    "name": "The Hazelton Hotel",
+    "address": "118 Yorkville Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 1C4",
+    "coordinates": "43.6709298,-79.3936054"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "The Strathcona Hotel",
+    "address": "60 York St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5J 1S8",
+    "coordinates": "43.64625849999999,-79.3831595"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Downtown Home Inn",
+    "address": "2 Monteith St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1K7",
+    "coordinates": "43.6670366,-79.3810644"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "SoHo Metropolitan Hotel",
+    "address": "318 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3T4",
+    "coordinates": "43.6447662,-79.39218989999999"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "The Ritz-Carlton, Toronto",
+    "address": "181 Wellington St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 3G7",
+    "coordinates": "43.645395,-79.38715909999999"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Le Germain Hotel Toronto Mercer",
+    "address": "30 Mercer St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1H3",
+    "coordinates": "43.6456991,-79.39088"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "Trump International Hotel & Tower Toronto",
+    "address": "325 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 4G3",
+    "coordinates": "43.649832,-79.3801783"
+  },
+  {
+    "name": "The Strathcona Hotel",
+    "address": "60 York St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5J 1S8",
+    "coordinates": "43.64625849999999,-79.3831595"
+  },
+  {
+    "name": "Downtown Home Inn",
+    "address": "2 Monteith St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1K7",
+    "coordinates": "43.6670366,-79.3810644"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "University of Toronto New College Residences",
+    "address": "40 Willcocks St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 1C6",
+    "coordinates": "43.6615178,-79.4003177"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Toronto Marriott Bloor Yorkville Hotel",
+    "address": "90 Bloor St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4W 1A7",
+    "coordinates": "43.6708246,-79.3848318"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Downtown Home Inn",
+    "address": "2 Monteith St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1K7",
+    "coordinates": "43.6670366,-79.3810644"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Super 8 Downtown Toronto",
+    "address": "222 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 3B3",
+    "coordinates": "43.6513916,-79.39781440000002"
+  },
+  {
+    "name": "OCHO",
+    "address": "195 Spadina Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2C5",
+    "coordinates": "43.6498596,-79.396596"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "Windsor Arms Hotel",
+    "address": "18 St Thomas St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5S 3E7",
+    "coordinates": "43.6687987,-79.3912515"
+  },
+  {
+    "name": "Comfort Hotel Downtown",
+    "address": "15 Charles St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1S1",
+    "coordinates": "43.66852599999999,-79.38538700000001"
+  },
+  {
+    "name": "Hilton Toronto",
+    "address": "145 Richmond St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2L2",
+    "coordinates": "43.64983000000001,-79.385669"
+  },
+  {
+    "name": "The Alexandra Hotel",
+    "address": "77 Ryerson Ave",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5T 2V4",
+    "coordinates": "43.6500805,-79.4026233"
+  },
+  {
+    "name": "Park Hyatt Toronto",
+    "address": "4 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2E8",
+    "coordinates": "43.669163,-79.39494499999999"
+  },
+  {
+    "name": "Downtown Home Inn",
+    "address": "2 Monteith St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1K7",
+    "coordinates": "43.6670366,-79.3810644"
+  },
+  {
+    "name": "Pantages Hotel Toronto",
+    "address": "200 Victoria St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 1V8",
+    "coordinates": "43.65451480000001,-79.37901760000001"
+  },
+  {
+    "name": "Town Inn Suites",
+    "address": "620 Church St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 2G2",
+    "coordinates": "43.6690603,-79.38287489999999"
+  },
+  {
+    "name": "Toronto Marriott Downtown Eaton Centre Hotel",
+    "address": "525 Bay St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 2L2",
+    "coordinates": "43.65468449999999,-79.382297"
+  },
+  {
+    "name": "Sheraton Centre Toronto Hotel",
+    "address": "123 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5H 2M9",
+    "coordinates": "43.65116200000001,-79.384508"
+  },
+  {
+    "name": "Howard Johnson Hotel Toronto Yorkville",
+    "address": "89 Avenue Rd",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5R 2G3",
+    "coordinates": "43.6723477,-79.3954617"
+  },
+  {
+    "name": "Holiday Inn Toronto Downtown Centre",
+    "address": "30 Carlton St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2E9",
+    "coordinates": "43.661731,-79.381203"
+  },
+  {
+    "name": "The Rex Hotel Jazz and Blues Bar",
+    "address": "194 Queen St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5V 1Z1",
+    "coordinates": "43.65066090000001,-79.3885114"
+  },
+  {
+    "name": "Bond Place Hotel Toronto",
+    "address": "65 Dundas St E",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5B 2G8",
+    "coordinates": "43.6559949,-79.37839699999999"
+  },
+  {
+    "name": "Courtyard by Marriott Toronto Downtown",
+    "address": "475 Yonge St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M4Y 1X7",
+    "coordinates": "43.662393,-79.38254510000002"
+  },
+  {
+    "name": "89 Chestnut, University of Toronto",
+    "address": "89 Chestnut St",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1R1",
+    "coordinates": "43.6545368,-79.3855805"
+  },
+  {
+    "name": "Chelsea Hotel, Toronto",
+    "address": "33 Gerrard St W",
+    "city": "Toronto",
+    "province": "ON",
+    "postalCode": "M5G 1Z4",
+    "coordinates": "43.65869800000001,-79.382982"
+  }
+]
